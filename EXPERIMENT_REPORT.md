@@ -31,7 +31,7 @@ To isolate model architecture, rerun both candidates on identical cleaned traini
 - Unreadable images: 0.
 
 The duplicate check hashes decoded RGB pixels including image dimensions. It does not identify every transformed duplicate.
-Visual inspection found multi-panel images, teaching slides, annotations and watermarks. These are possible shortcut signals.
+Visual inspection found CT/MRI images, non-radiograph stock photos, multi-panel figures, teaching slides, annotations and watermarks. These are possible shortcut signals.
 No patient identifiers or reliable acquisition grouping are provided; independence at the patient or institution level is unverified.
 
 ## Deployment verification
@@ -40,7 +40,7 @@ No patient identifiers or reliable acquisition grouping are provided; independen
 - PyTorch/ONNX same-input maximum absolute logit difference: 0.00000077.
 - Input: RGB float32 `[1, 3, 224, 224]`, pixels in `[0,1]`; normalization is embedded in the exported graph.
 - Browser canvas and Pillow resizing are not bit-identical; small interpolation differences are possible.
-- The 12 demo samples were selected with seed 42, one per class, without using correctness as a selection criterion.
+- The 12 demo samples use seed 42, one per class, with five visually reviewed radiograph replacements. Image type/presentation quality, not prediction correctness, guided replacements. Source hashes are recorded in samples.json.
 - The website runs ONNX Runtime Web locally in the browser. GitHub Pages serves static files only.
 
 ## Practical interpretation

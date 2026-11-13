@@ -57,7 +57,7 @@ Publish the `main` branch's `/docs` folder in **Settings → Pages → Deploy fr
 
 Dataset: [Shyam Gupta · Bone Fracture Split Classification](https://www.kaggle.com/datasets/shyamgupta196/bone-fracture-split-classification). Kaggle lists version 1 under CC0. See [DATA_SOURCES.md](DATA_SOURCES.md) for attribution and provenance limitations.
 
-The executed audit found **124 groups of identical images with conflicting class labels**. Removing ambiguous and repeated images excluded **288 of 1,686 entries**. The cleaned split contains **776 training, 194 validation and 428 test images**. Visual inspection also revealed teaching slides, multi-panel figures, annotations and watermarks, which can create shortcuts unrelated to fracture morphology.
+The executed audit found **124 groups of identical images with conflicting class labels**. Removing ambiguous and repeated images excluded **288 of 1,686 entries**. The cleaned split contains **776 training, 194 validation and 428 test images**. Visual inspection also revealed CT/MRI images, non-radiograph photos, teaching slides, multi-panel figures, annotations and watermarks, which can create shortcuts unrelated to fracture morphology.
 
 Exact deduplication does not catch every resized copy, crop, or related study. Patient IDs are unavailable; patient-level independence is unverified. Data quality, annotation reliability, limited sample size and source differences limit generalization. The held-out test set supports only this dataset-level experiment. A prospective clinical evaluation has not been performed.
 

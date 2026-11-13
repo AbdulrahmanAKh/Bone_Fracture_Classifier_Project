@@ -2,61 +2,85 @@
   {
     "file": "samples/sample-00.png",
     "label": "Avulsion fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "daa18a69afa8ebd456891d1e180bf72929c41b68ac5d0e30f2f89d67f4499c15",
+    "selection": "seed 42"
   },
   {
     "file": "samples/sample-01.png",
     "label": "Comminuted fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "1b54f520ce4707e17183398f3e767a86036892120b0ac26300b7daff1e08be0a",
+    "selection": "seed 42"
   },
   {
     "file": "samples/sample-02.png",
     "label": "Compression-Crush fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "d13bc49dbf0f3e8e84da87261d2acee570f8a7a666d288535761ee0f71573d15",
+    "selection": "visual review"
   },
   {
     "file": "samples/sample-03.png",
     "label": "Fracture Dislocation",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "a69621374b94d7d1b812170fad0297579c1ce66dc05b42a7e8ced87f504f6187",
+    "selection": "seed 42"
   },
   {
     "file": "samples/sample-04.png",
     "label": "Greenstick fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "704a39e8f249be23ca249360f828788c1f24434aae783f4651c2dcf9419c8acf",
+    "selection": "visual review"
   },
   {
     "file": "samples/sample-05.png",
     "label": "Hairline Fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "70604cd1101e77aa89ede4fd662bb13c3de4a621677a39b067649f8445acf550",
+    "selection": "visual review"
   },
   {
     "file": "samples/sample-06.png",
     "label": "Impacted fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "bb0bce642edde6b9e192811e975720769ac2a5c404ed8503c44b261762583c8c",
+    "selection": "seed 42"
   },
   {
     "file": "samples/sample-07.png",
     "label": "Intra-articular fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "4c5854848dfa37c6bfa054417d5d3fccdefeaf1eb6ca2ea71b205daeff355788",
+    "selection": "seed 42"
   },
   {
     "file": "samples/sample-08.png",
     "label": "Longitudinal fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "d2b10693a483b550e096b9b1b61ef293c56d39d2e94d2bad672b21e3f33057e7",
+    "selection": "visual review"
   },
   {
     "file": "samples/sample-09.png",
     "label": "Oblique fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "d22f74feaa34b29fef501fc2b0bb274fb9a24a77663515e265aba8106082fa09",
+    "selection": "seed 42"
   },
   {
     "file": "samples/sample-10.png",
     "label": "Pathological fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "49f691ec0095fb6205f9279f4e7c65b947f992a7c6adb3c4e2c255b240e72df9",
+    "selection": "seed 42"
   },
   {
     "file": "samples/sample-11.png",
     "label": "Spiral Fracture",
-    "source": "Kaggle held-out test split"
+    "source": "Kaggle held-out test split",
+    "source_hash": "008c0f84e8d9ec7852840226f73473cdc3797b0a9187fc1694e3d2f819ac2a97",
+    "selection": "visual review"
   }
 ]

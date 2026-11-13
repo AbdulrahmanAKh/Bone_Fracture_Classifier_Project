@@ -1,0 +1,62 @@
+[
+  {
+    "file": "samples/sample-00.png",
+    "label": "Avulsion fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-01.png",
+    "label": "Comminuted fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-02.png",
+    "label": "Compression-Crush fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-03.png",
+    "label": "Fracture Dislocation",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-04.png",
+    "label": "Greenstick fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-05.png",
+    "label": "Hairline Fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-06.png",
+    "label": "Impacted fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-07.png",
+    "label": "Intra-articular fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-08.png",
+    "label": "Longitudinal fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-09.png",
+    "label": "Oblique fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-10.png",
+    "label": "Pathological fracture",
+    "source": "Kaggle held-out test split"
+  },
+  {
+    "file": "samples/sample-11.png",
+    "label": "Spiral Fracture",
+    "source": "Kaggle held-out test split"
+  }
+]

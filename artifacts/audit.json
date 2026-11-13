@@ -1,0 +1,10 @@
+{
+  "raw_images": 1686,
+  "cleaned_images": 1398,
+  "excluded_images": 288,
+  "conflicting_hashes": 124,
+  "unreadable_images": 0,
+  "train": 776,
+  "validation": 194,
+  "test": 428
+}

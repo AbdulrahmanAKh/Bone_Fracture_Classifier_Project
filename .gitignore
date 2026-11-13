@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+artifacts/best_model.pt
+artifacts/browser-assets.zip
+artifacts/web/
+artifacts/test_predictions.npz
+*.log

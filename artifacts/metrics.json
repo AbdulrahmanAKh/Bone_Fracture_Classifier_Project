@@ -1,0 +1,25 @@
+{
+  "model": "EfficientNet-B0",
+  "test_accuracy": 0.49065420560747663,
+  "test_macro_f1": 0.46547842088479513,
+  "test_balanced_accuracy": 0.4741150852772793,
+  "test_images": 428,
+  "accuracy_ci95": [
+    0.4439252336448598,
+    0.5397196261682243
+  ],
+  "best_validation_macro_f1": 0.462066734921688,
+  "original_peak_validation_accuracy": 0.5029,
+  "comparable_to_original": false,
+  "seed": 42,
+  "audit": {
+    "raw_images": 1686,
+    "cleaned_images": 1398,
+    "excluded_images": 288,
+    "conflicting_hashes": 124,
+    "unreadable_images": 0,
+    "train": 776,
+    "validation": 194,
+    "test": 428
+  }
+}

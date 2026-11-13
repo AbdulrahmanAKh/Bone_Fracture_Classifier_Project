@@ -1,0 +1,21 @@
+epoch,train_loss,train_accuracy,validation_loss,validation_accuracy,protocol
+1,2.4198,0.16399999999999998,2.2858,0.3029,Original: test folder reused for validation
+2,1.9417,0.38770000000000004,2.0476,0.3553,Original: test folder reused for validation
+3,1.3619,0.5611,2.0228,0.41359999999999997,Original: test folder reused for validation
+4,0.9162,0.7182,1.8769,0.4738,Original: test folder reused for validation
+5,0.6259,0.8096,2.026,0.4583,Original: test folder reused for validation
+6,0.4801,0.8523000000000001,2.0707,0.4874,Original: test folder reused for validation
+7,0.4436,0.8676,2.1059,0.4893,Original: test folder reused for validation
+8,0.3689,0.8702,2.1291,0.4796,Original: test folder reused for validation
+9,0.3526,0.8702,2.182,0.5029,Original: test folder reused for validation
+10,0.3064,0.8847,2.2885,0.4874,Original: test folder reused for validation
+11,0.3036,0.8813,2.2472,0.4932,Original: test folder reused for validation
+12,0.2636,0.8967,2.4301,0.4932,Original: test folder reused for validation
+13,0.2892,0.8822,2.41,0.4796,Original: test folder reused for validation
+14,0.2595,0.8864,2.556,0.4913,Original: test folder reused for validation
+15,0.2608,0.883,2.498,0.4874,Original: test folder reused for validation
+16,0.2568,0.8924,2.3967,0.46799999999999997,Original: test folder reused for validation
+17,0.2576,0.889,2.5159,0.4816,Original: test folder reused for validation
+18,0.2563,0.883,2.4902,0.4971,Original: test folder reused for validation
+19,0.2473,0.889,2.3855,0.46799999999999997,Original: test folder reused for validation
+20,0.2209,0.8924,2.4957,0.4796,Original: test folder reused for validation
